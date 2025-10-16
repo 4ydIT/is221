@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\lumielan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\BaseTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\BaseTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\OrderDBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\OrderDBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\HistoryTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\HistoryTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\OrderController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controllers\\OrderController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Router\\Router.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Router\\Router.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\AboutTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\AboutTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\HomeTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\HomeTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\UserDBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\UserDBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\ValidateRegisterData.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ValidateRegisterData.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\RegisterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controllers\\RegisterController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\ProductController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controllers\\ProductController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\ProductDBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ProductDBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Models\\Product.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Models\\Product.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\ProductFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ProductFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\OrderFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\OrderFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\OrderTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\OrderTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\ProductTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\ProductTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\BasketController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controllers\\BasketController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\OrderDetailsTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\OrderDetailsTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Models\\OrderItem.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Models\\OrderItem.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\Mailer.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\Mailer.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Models\\Order.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Models\\Order.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\ValidateOrderData.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ValidateOrderData.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\UserController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controllers\\UserController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\RegisterTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\RegisterTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Views\\UserTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Views\\UserTemplate.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\.htaccess||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.htaccess||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\AboutController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controllers\\AboutController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\ISaveStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ISaveStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\ILoadStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ILoadStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\FileStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\FileStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Services\\DBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\DBStorage.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\HomeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Controllers\\HomeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\BaseTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\BaseTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\BaseTemplate.php",
+              "RelativeToolTip": "src\\Views\\BaseTemplate.php",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:41:01.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserFactory.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\UserFactory.php",
+              "RelativeDocumentMoniker": "src\\Services\\UserFactory.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\UserFactory.php",
+              "RelativeToolTip": "src\\Services\\UserFactory.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:37.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidateRegisterData.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ValidateRegisterData.php",
+              "RelativeDocumentMoniker": "src\\Services\\ValidateRegisterData.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ValidateRegisterData.php",
+              "RelativeToolTip": "src\\Services\\ValidateRegisterData.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:43.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDBStorage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\UserDBStorage.php",
+              "RelativeDocumentMoniker": "src\\Services\\UserDBStorage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\UserDBStorage.php",
+              "RelativeToolTip": "src\\Services\\UserDBStorage.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:35.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\AboutTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\AboutTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\AboutTemplate.php",
+              "RelativeToolTip": "src\\Views\\AboutTemplate.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:49.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\HistoryTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\HistoryTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\HistoryTemplate.php",
+              "RelativeToolTip": "src\\Views\\HistoryTemplate.php",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T09:45:44.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\HomeTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\HomeTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\HomeTemplate.php",
+              "RelativeToolTip": "src\\Views\\HomeTemplate.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:41:15.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\OrderController.php",
+              "RelativeDocumentMoniker": "src\\Controllers\\OrderController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\OrderController.php",
+              "RelativeToolTip": "src\\Controllers\\OrderController.php",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:58:20.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDBStorage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\OrderDBStorage.php",
+              "RelativeDocumentMoniker": "src\\Services\\OrderDBStorage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\OrderDBStorage.php",
+              "RelativeToolTip": "src\\Services\\OrderDBStorage.php",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T09:53:23.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Router.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Router\\Router.php",
+              "RelativeDocumentMoniker": "src\\Router\\Router.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Router\\Router.php",
+              "RelativeToolTip": "src\\Router\\Router.php",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T09:53:46.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\RegisterController.php",
+              "RelativeDocumentMoniker": "src\\Controllers\\RegisterController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\RegisterController.php",
+              "RelativeToolTip": "src\\Controllers\\RegisterController.php",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:58:45.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\ProductController.php",
+              "RelativeDocumentMoniker": "src\\Controllers\\ProductController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\ProductController.php",
+              "RelativeToolTip": "src\\Controllers\\ProductController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T07:13:47.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDBStorage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ProductDBStorage.php",
+              "RelativeDocumentMoniker": "src\\Services\\ProductDBStorage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ProductDBStorage.php",
+              "RelativeToolTip": "src\\Services\\ProductDBStorage.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T07:14:09.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\Product.php",
+              "RelativeDocumentMoniker": "src\\Models\\Product.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\Product.php",
+              "RelativeToolTip": "src\\Models\\Product.php",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:58:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductFactory.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ProductFactory.php",
+              "RelativeDocumentMoniker": "src\\Services\\ProductFactory.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ProductFactory.php",
+              "RelativeToolTip": "src\\Services\\ProductFactory.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:32.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderFactory.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\OrderFactory.php",
+              "RelativeDocumentMoniker": "src\\Services\\OrderFactory.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\OrderFactory.php",
+              "RelativeToolTip": "src\\Services\\OrderFactory.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:27.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\OrderTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\OrderTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\OrderTemplate.php",
+              "RelativeToolTip": "src\\Views\\OrderTemplate.php",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\ProductTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\ProductTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\ProductTemplate.php",
+              "RelativeToolTip": "src\\Views\\ProductTemplate.php",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T07:00:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BasketController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\BasketController.php",
+              "RelativeDocumentMoniker": "src\\Controllers\\BasketController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\BasketController.php",
+              "RelativeToolTip": "src\\Controllers\\BasketController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:58:10.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetailsTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\OrderDetailsTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\OrderDetailsTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\OrderDetailsTemplate.php",
+              "RelativeToolTip": "src\\Views\\OrderDetailsTemplate.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T11:13:26.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItem.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\OrderItem.php",
+              "RelativeDocumentMoniker": "src\\Models\\OrderItem.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\OrderItem.php",
+              "RelativeToolTip": "src\\Models\\OrderItem.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T11:12:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Mailer.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\Mailer.php",
+              "RelativeDocumentMoniker": "src\\Services\\Mailer.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\Mailer.php",
+              "RelativeToolTip": "src\\Services\\Mailer.php",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:21.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T09:01:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Order.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\Order.php",
+              "RelativeDocumentMoniker": "src\\Models\\Order.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\Order.php",
+              "RelativeToolTip": "src\\Models\\Order.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:58:57.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ValidateOrderData.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ValidateOrderData.php",
+              "RelativeDocumentMoniker": "src\\Services\\ValidateOrderData.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ValidateOrderData.php",
+              "RelativeToolTip": "src\\Services\\ValidateOrderData.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:40.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\UserController.php",
+              "RelativeDocumentMoniker": "src\\Controllers\\UserController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\UserController.php",
+              "RelativeToolTip": "src\\Controllers\\UserController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:58:52.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\RegisterTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\RegisterTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\RegisterTemplate.php",
+              "RelativeToolTip": "src\\Views\\RegisterTemplate.php",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T07:00:05.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserTemplate.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\UserTemplate.php",
+              "RelativeDocumentMoniker": "src\\Views\\UserTemplate.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Views\\UserTemplate.php",
+              "RelativeToolTip": "src\\Views\\UserTemplate.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T07:00:08.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\User.php",
+              "RelativeDocumentMoniker": "src\\Models\\User.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Models\\User.php",
+              "RelativeToolTip": "src\\Models\\User.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:05.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "assets\\css\\style.css",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\assets\\css\\style.css",
+              "RelativeToolTip": "assets\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-06T07:41:24.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".htaccess",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\.htaccess",
+              "RelativeDocumentMoniker": ".htaccess",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\.htaccess",
+              "RelativeToolTip": ".htaccess",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-06T07:06:09.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AboutController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\AboutController.php",
+              "RelativeDocumentMoniker": "src\\Controllers\\AboutController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\AboutController.php",
+              "RelativeToolTip": "src\\Controllers\\AboutController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:31:46.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISaveStorage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ISaveStorage.php",
+              "RelativeDocumentMoniker": "src\\Services\\ISaveStorage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ISaveStorage.php",
+              "RelativeToolTip": "src\\Services\\ISaveStorage.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:19.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILoadStorage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ILoadStorage.php",
+              "RelativeDocumentMoniker": "src\\Services\\ILoadStorage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\ILoadStorage.php",
+              "RelativeToolTip": "src\\Services\\ILoadStorage.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:17.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileStorage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\FileStorage.php",
+              "RelativeDocumentMoniker": "src\\Services\\FileStorage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\FileStorage.php",
+              "RelativeToolTip": "src\\Services\\FileStorage.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:14.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DBStorage.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\DBStorage.php",
+              "RelativeDocumentMoniker": "src\\Services\\DBStorage.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Services\\DBStorage.php",
+              "RelativeToolTip": "src\\Services\\DBStorage.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:59:11.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeController.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\HomeController.php",
+              "RelativeDocumentMoniker": "src\\Controllers\\HomeController.php",
+              "ToolTip": "C:\\xampp\\htdocs\\lumielan\\src\\Controllers\\HomeController.php",
+              "RelativeToolTip": "src\\Controllers\\HomeController.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-05-06T06:58:17.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
